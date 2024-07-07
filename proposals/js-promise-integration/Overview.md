@@ -1,4 +1,4 @@
-# JavaScript-Promise Integration Proposal
+Farrah Gil Pancho- HRIS
 
 ## Summary
 
